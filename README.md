@@ -7,6 +7,6 @@ I  changed the  the value of  axis in each flang translation command except flan
 ## **Sample Results :**
 
 **MY output** :
-![alt text](Capture1.png)
-![alt text](Capture2.png)
-![alt text](Capture3.png)
+![alt text](Capture1.PNG)
+![alt text](Capture2.PNG)
+![alt text](Capture3.PNG)
