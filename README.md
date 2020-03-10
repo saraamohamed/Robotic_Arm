@@ -1,12 +1,12 @@
 # sbe306b-assign1-robotic-arm-saraamohamed
-Issues
-**Issues about my implementation**: 
-i completed the code and added 5 finger to make a3
--D robbot hand ,I control the rotation of each flang and limit the rotation of elbow and fingers 
+## **Issues :** 
+**Issues i faced in my implementation**: 
+i completed the code and added 5 finger to make a 3-D robot hand ,I controled the rotation of each flang and limited the rotation of elbow and fingers 
 I  changed the  the value of  axis in each flang translation command except flang.
-**Sample Results**:
+
+## **Sample Results :**
 
 **MY output** :
-<img src="Capture1.png" width="250" height="250" />
-<img src="Capture2.png" width="250" height="250" />
-<img src="Capture3.png" width="250" height="250" />
+![alt text](Capture1.png)
+![alt text](Capture2.png)
+![alt text](Capture3.png)
